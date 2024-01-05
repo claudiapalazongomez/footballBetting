@@ -113,6 +113,7 @@ for (const [min, event] of gameEvents) {
   console.log(`[${half} HALF] ${min}: ${event}`);
 }
 
+// Another different Challenge related with Strings
 /* 
 Write a program that receives a list of variable names written in underscore_case and convert them to camelCase.
 
